@@ -26,7 +26,10 @@ An interactive computer graphics project developed using **OpenGL (GLUT)** in **
 
 ## 📸 Screenshot
 
-Add a screenshot of the project here.
+<p align="center">
+  <img src="assets/Day.png" width="48%" />
+  <img src="assets/night-1.png" width="48%" />
+</p>
 
 ## 👩‍💻 Author
 **Most. Ashifa Tamanna**
